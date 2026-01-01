@@ -42,4 +42,4 @@ Sirr OS is developed in the open and guided by community values.
 We welcome contributors who share an interest in privacy, Linux on mobile hardware, and alternative approaches to personal computing.
 
 ---
-** Privacy is a right. Take it back — in your pocket.**
+**Privacy is a right. Take it back — in your pocket.**
