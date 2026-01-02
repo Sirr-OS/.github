@@ -1,6 +1,6 @@
 # Sirr OS
 
-**Sirr OS** is a privacy-first Linux distribution for mobile and embedded devices, developed by an independent open-source organization focused on digital freedom, user sovereignty, and system transparency.
+**Sirr OS** is a privacy-first Linux distribution for mobile and embedded devices, developed and focused on digital freedom, user sovereignty, and system transparency.
 
 Built on a mainline Linux stack and designed primarily for the **PinePhone Pro**, Sirr OS does not attempt to replicate mainstream mobile platforms. Instead, it offers a minimal, hackable environment that gives users full control over their hardware and software.
 
